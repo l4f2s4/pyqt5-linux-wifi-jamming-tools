@@ -5,8 +5,8 @@ in wireless networks. Jamming attacks are a subset of denial of service (DoS) at
 
 **Requirements**
 ---
-1.linux operating system
-`make sure you have this tools install nmcli,airmon-ng`
-_wireless-adapter_
-2.python3
+*linux operating system*
+`make sure you have linux operating system with _wireless-adapter_ and this tools are installed namely:nmcli,airmon-ng`
+
+*python3*
 `pyqt5,pywifi package`
