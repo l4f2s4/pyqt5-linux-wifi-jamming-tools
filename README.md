@@ -12,3 +12,10 @@ in wireless networks. Jamming attacks are a subset of denial of service (DoS) at
 *python3*
 ---
 `install pyqt5,pywifi package`
+
+
+
+*run*
+---
+python3 complete.py to start project
+
