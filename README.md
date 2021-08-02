@@ -17,5 +17,5 @@ in wireless networks. Jamming attacks are a subset of denial of service (DoS) at
 
 *run*
 ---
-python3 complete.py to start project
+python3 complete_project.py to start project
 
